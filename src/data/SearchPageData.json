@@ -1,0 +1,680 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=500",
+        "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=500",
+        "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=500"
+      ],
+      "title": "MacBook Pro 2023",
+      "slug": "macbook-pro-2023",
+      "type": "Electronics",
+      "location": "University District",
+      "specs": "16GB RAM, 512GB SSD, M2 Chip",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 75,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 1200,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "2",
+      "images": [
+        "https://images.unsplash.com/photo-1532634993-15f421e42ec0?q=80&w=500"
+      ],
+      "title": "Chemistry 101 Textbook Bundle",
+      "slug": "chemistry-101-textbook-bundle",
+      "type": "Textbooks",
+      "location": "Campus Bookstore Area",
+      "specs": "Includes study guide and lab manual",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 30,
+          "period": "semester",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "3",
+      "images": [
+        "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?q=80&w=500"
+      ],
+      "title": "Ergonomic Study Desk",
+      "slug": "ergonomic-study-desk",
+      "type": "Furniture",
+      "location": "Student Housing Complex",
+      "specs": "Adjustable height, built-in USB ports",
+      "condition": "Like New",
+      "availability": "Next Week",
+      "pricing": {
+        "rent": {
+          "amount": 45,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 299,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "4",
+      "images": [
+        "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?q=80&w=500"
+      ],
+      "title": "Graduation Ceremony Suit",
+      "slug": "graduation-ceremony-suit",
+      "type": "Formal Wear",
+      "location": "Downtown Campus",
+      "specs": "Navy Blue, Size 40R",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 50,
+          "period": "day",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "5",
+      "images": [
+        "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=500"
+      ],
+      "title": "Party Speaker System",
+      "slug": "party-speaker-system",
+      "type": "Event Equipment",
+      "location": "Student Center",
+      "specs": "1000W, Bluetooth, LED lights",
+      "condition": "Good",
+      "availability": "Weekends Only",
+      "pricing": {
+        "rent": {
+          "amount": 40,
+          "period": "day",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "6",
+      "images": [
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=500"
+      ],
+      "title": "Mountain Bike",
+      "slug": "mountain-bike",
+      "type": "Sports Equipment",
+      "location": "Campus Recreation Center",
+      "specs": "21-speed, front suspension",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 35,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "7",
+      "images": [
+        "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=500"
+      ],
+      "title": "Scientific Calculator",
+      "slug": "scientific-calculator",
+      "type": "Electronics",
+      "location": "Engineering Building",
+      "specs": "Texas Instruments TI-84 Plus",
+      "condition": "Like New",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 15,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 100,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "8",
+      "images": [
+        "https://images.unsplash.com/photo-1598838073192-05c942ede858?q=80&w=500"
+      ],
+      "title": "Dorm Mini Fridge",
+      "slug": "dorm-mini-fridge",
+      "type": "Dorm Essentials",
+      "location": "Student Housing",
+      "specs": "3.3 cubic feet, with freezer",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 25,
+          "period": "month",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "9",
+      "images": [
+        "https://images.unsplash.com/photo-1519682577862-22b62b24e493?q=80&w=500"
+      ],
+      "title": "Biology Lab Kit",
+      "slug": "biology-lab-kit",
+      "type": "Study Materials",
+      "location": "Science Building",
+      "specs": "Complete microscope set with slides",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 20,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "10",
+      "images": [
+        "https://images.unsplash.com/photo-1540104539488-92a51bbc0410?q=80&w=500"
+      ],
+      "title": "Gaming Monitor",
+      "slug": "gaming-monitor",
+      "type": "Electronics",
+      "location": "Tech Hub",
+      "specs": "27-inch, 144Hz, 1ms response time",
+      "condition": "Like New",
+      "availability": "Next Day",
+      "pricing": {
+        "rent": {
+          "amount": 45,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 400,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "11",
+      "images": [
+        "https://images.unsplash.com/photo-1588421357574-87938a86fa28?q=80&w=500"
+      ],
+      "title": "Wireless Keyboard",
+      "slug": "wireless-keyboard",
+      "type": "Electronics",
+      "location": "Computer Lab",
+      "specs": "Mechanical switches, RGB backlight",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 15,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 100,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "12",
+      "images": [
+        "https://images.unsplash.com/photo-1561141037-b9a94ae4488c?q=80&w=500"
+      ],
+      "title": "Calculus Textbook Set",
+      "slug": "calculus-textbook-set",
+      "type": "Textbooks",
+      "location": "Math Department",
+      "specs": "Calculus I, II, and III",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 40,
+          "period": "semester",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "13",
+      "images": [
+        "https://images.unsplash.com/photo-1542546068979-b6affb46ea8f?q=80&w=500"
+      ],
+      "title": "Tennis Racket Set",
+      "slug": "tennis-racket-set",
+      "type": "Sports Equipment",
+      "location": "Sports Complex",
+      "specs": "Professional grade, includes 3 balls",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 20,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "14",
+      "images": [
+        "https://images.unsplash.com/photo-1600431521340-491eca880813?q=80&w=500"
+      ],
+      "title": "Study Lamp with USB",
+      "slug": "study-lamp-with-usb",
+      "type": "Dorm Essentials",
+      "location": "Residence Hall",
+      "specs": "LED, adjustable brightness, wireless charging",
+      "condition": "Like New",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 15,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 50,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "15",
+      "images": [
+        "https://images.unsplash.com/photo-1595427538219-afb309706025?q=80&w=500"
+      ],
+      "title": "iPad Pro 12.9",
+      "slug": "ipad-pro-12-9",
+      "type": "Electronics",
+      "location": "Library",
+      "specs": "256GB, Apple Pencil included",
+      "condition": "Excellent",
+      "availability": "Next Day",
+      "pricing": {
+        "rent": {
+          "amount": 65,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 999,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "16",
+      "images": [
+        "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?q=80&w=500"
+      ],
+      "title": "Formal Dress",
+      "slug": "formal-dress",
+      "type": "Formal Wear",
+      "location": "Fashion Department",
+      "specs": "Size 8, Black, Knee Length",
+      "condition": "Like New",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 40,
+          "period": "day",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "17",
+      "images": [
+        "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?q=80&w=500"
+      ],
+      "title": "DSLR Camera Kit",
+      "slug": "dslr-camera-kit",
+      "type": "Electronics",
+      "location": "Media Center",
+      "specs": "Canon EOS, 18-55mm lens",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 50,
+          "period": "day",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "18",
+      "images": [
+        "https://images.unsplash.com/photo-1595814433015-e6f5ce69614e?q=80&w=500"
+      ],
+      "title": "Electric Guitar",
+      "slug": "electric-guitar",
+      "type": "Event Equipment",
+      "location": "Music Department",
+      "specs": "Fender Stratocaster with amp",
+      "condition": "Good",
+      "availability": "Weekends Only",
+      "pricing": {
+        "rent": {
+          "amount": 45,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "19",
+      "images": [
+        "https://images.unsplash.com/photo-1591247378418-c77f1532d2f8?q=80&w=500"
+      ],
+      "title": "Physics Lab Equipment",
+      "slug": "physics-lab-equipment",
+      "type": "Study Materials",
+      "location": "Physics Building",
+      "specs": "Complete mechanics kit",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 35,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "20",
+      "images": [
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=500"
+      ],
+      "title": "Modern Coffee Table",
+      "slug": "modern-coffee-table",
+      "type": "Furniture",
+      "location": "Student Apartments",
+      "specs": "Glass top, storage shelf",
+      "condition": "Like New",
+      "availability": "Next Week",
+      "pricing": {
+        "rent": {
+          "amount": 30,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 150,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "21",
+      "images": [
+        "https://images.unsplash.com/photo-1550009158-9ebf69173e03?q=80&w=500"
+      ],
+      "title": "Gaming Console",
+      "slug": "gaming-console",
+      "type": "Electronics",
+      "location": "Student Lounge",
+      "specs": "PlayStation 5 with 2 controllers",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 55,
+          "period": "week",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 499,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "22",
+      "images": [
+        "https://images.unsplash.com/photo-1535955565956-4a631d6ed956?q=80&w=500"
+      ],
+      "title": "Drum Set",
+      "slug": "drum-set",
+      "type": "Event Equipment",
+      "location": "Music Room",
+      "specs": "5-piece set with cymbals",
+      "condition": "Good",
+      "availability": "Weekends Only",
+      "pricing": {
+        "rent": {
+          "amount": 60,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "23",
+      "images": [
+        "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?q=80&w=500"
+      ],
+      "title": "Wireless Mouse",
+      "slug": "wireless-mouse",
+      "type": "Electronics",
+      "location": "Computer Center",
+      "specs": "Logitech MX Master 3",
+      "condition": "Like New",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 10,
+          "period": "month",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 70,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "24",
+      "images": [
+        "https://images.unsplash.com/photo-1621600411688-4be93cd68504?q=80&w=500"
+      ],
+      "title": "Microwave Oven",
+      "slug": "microwave-oven",
+      "type": "Dorm Essentials",
+      "location": "Residence Hall",
+      "specs": "1000W, 1.1 cu ft",
+      "condition": "Good",
+      "availability": "Next Week",
+      "pricing": {
+        "rent": {
+          "amount": 20,
+          "period": "month",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "25",
+      "images": [
+        "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=500"
+      ],
+      "title": "Art Supplies Set",
+      "slug": "art-supplies-set",
+      "type": "Study Materials",
+      "location": "Art Department",
+      "specs": "Complete painting kit",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 25,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "26",
+      "images": [
+        "https://images.unsplash.com/photo-1499438075715-fc23ef376ab9?q=80&w=500"
+      ],
+      "title": "Badminton Set",
+      "slug": "badminton-set",
+      "type": "Sports Equipment",
+      "location": "Indoor Sports Complex",
+      "specs": "4 rackets, nets, and shuttlecocks",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 15,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "27",
+      "images": [
+        "https://images.unsplash.com/photo-1518481612222-68bbe828ecd1?q=80&w=500"
+      ],
+      "title": "Psychology Textbooks",
+      "slug": "psychology-textbooks",
+      "type": "Textbooks",
+      "location": "Library",
+      "specs": "Complete semester set",
+      "condition": "Good",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 45,
+          "period": "semester",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "28",
+      "images": [
+        "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=500"
+      ],
+      "title": "Mini Projector",
+      "slug": "mini-projector",
+      "type": "Electronics",
+      "location": "Study Center",
+      "specs": "1080p, 3800 lumens",
+      "condition": "Like New",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 40,
+          "period": "week",
+          "currency": "PKR"
+        },
+        "buy": {
+          "amount": 200,
+          "currency": "PKR"
+        }
+      },
+      "listingType": "both"
+    },
+    {
+      "id": "29",
+      "images": [
+        "https://images.unsplash.com/photo-1595781572981-d63151b232ed?q=80&w=500"
+      ],
+      "title": "Formal Blazer",
+      "slug": "formal-blazer",
+      "type": "Formal Wear",
+      "location": "Career Center",
+      "specs": "Navy, Size M",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 30,
+          "period": "day",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    },
+    {
+      "id": "30",
+      "images": [
+        "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?q=80&w=500"
+      ],
+      "title": "Acoustic Guitar",
+      "slug": "acoustic-guitar",
+      "type": "Event Equipment",
+      "location": "Music Department",
+      "specs": "Martin DX1AE",
+      "condition": "Excellent",
+      "availability": "Available Now",
+      "pricing": {
+        "rent": {
+          "amount": 40,
+          "period": "week",
+          "currency": "PKR"
+        }
+      },
+      "listingType": "rent"
+    }
+  ]
+}
